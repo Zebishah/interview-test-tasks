@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.vercel
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
